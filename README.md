@@ -6,4 +6,4 @@
 ``` bash
 ansible-playbook playbook.yml
 ```
-![screenshot of ubuntu frontend](image.png)
+![alt text](image-1.png)
